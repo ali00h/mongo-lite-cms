@@ -16,7 +16,6 @@
         "laravel/framework": "^8.12",
         "laravel/tinker": "^2.5",
         "morilog/jalali": "3.*",
-        "niklasravnsborg/laravel-pdf": "^4.0"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
@@ -44,7 +43,7 @@
         },
         "files": [
             "app/Http/Helper.php"
-        ]           
+        ]
     },
     "autoload-dev": {
         "psr-4": {
